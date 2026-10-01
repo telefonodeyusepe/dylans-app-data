@@ -1,0 +1,116 @@
+{
+ "asOf": "2026-10-01T14:50:00+02:00",
+ "note": "European markets open; US opens at 15:30 Madrid, so US indices are Wednesday's close. Rates, FX, European indices and crypto are Thursday snapshots.",
+ "rows": [
+  {
+   "asOf": "2026-09-30T22:00:00+02:00",
+   "change": "-0.3%",
+   "group": "stocks",
+   "name": "S&P 500",
+   "period": "vs previous close",
+   "source": "AP via ABC News",
+   "status": "previous close",
+   "unit": "pts",
+   "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-wednesday-9302026-136901112",
+   "value": "7,651.54"
+  },
+  {
+   "asOf": "2026-09-30T22:00:00+02:00",
+   "change": "+0.2%",
+   "group": "stocks",
+   "name": "Nasdaq Composite",
+   "period": "vs previous close",
+   "source": "AP via ABC News",
+   "status": "previous close",
+   "unit": "pts",
+   "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-wednesday-9302026-136901112",
+   "value": "26,861.06"
+  },
+  {
+   "asOf": "2026-10-01T12:48:00+02:00",
+   "change": "-0.33%",
+   "group": "stocks",
+   "name": "Euro Stoxx 50",
+   "period": "vs previous close",
+   "source": "MarketScreener",
+   "status": "intraday snapshot",
+   "unit": "pts",
+   "url": "https://www.marketscreener.com/quote/index/EURO-STOXX-50-7396/",
+   "value": "6,248.17"
+  },
+  {
+   "asOf": "2026-10-01T13:31:00+02:00",
+   "change": "-1.25%",
+   "group": "stocks",
+   "name": "IBEX 35",
+   "period": "vs previous close",
+   "source": "El Español (Invertia)",
+   "status": "intraday snapshot",
+   "unit": "pts",
+   "url": "https://www.elespanol.com/invertia/mercados/20261001/ibex-bolsa-directo-hoy-cotizaciones-noticias-tiempo-real/1003744404180_10.html",
+   "value": "19,183.35"
+  },
+  {
+   "asOf": "2026-10-01T14:50:00+02:00",
+   "change": "-0.01 pp",
+   "group": "rates",
+   "name": "US 10Y Treasury",
+   "period": "vs previous close",
+   "source": "Trading Economics",
+   "status": "intraday snapshot",
+   "unit": "%",
+   "url": "https://tradingeconomics.com/united-states/government-bond-yield",
+   "value": "5.28"
+  },
+  {
+   "asOf": "2026-10-01T14:50:00+02:00",
+   "change": "-0.045 pp",
+   "group": "rates",
+   "name": "German 10Y Bund",
+   "period": "vs previous close",
+   "source": "Trading Economics",
+   "status": "intraday snapshot",
+   "unit": "%",
+   "url": "https://tradingeconomics.com/germany/government-bond-yield",
+   "value": "3.53"
+  },
+  {
+   "asOf": "2026-10-01T14:50:00+02:00",
+   "change": "-0.31%",
+   "group": "fx",
+   "name": "EUR/USD",
+   "period": "vs previous close",
+   "source": "Trading Economics",
+   "status": "intraday snapshot",
+   "unit": "USD per EUR",
+   "url": "https://tradingeconomics.com/euro-area/currency",
+   "value": "1.1294"
+  },
+  {
+   "asOf": "2026-10-01T14:50:00+02:00",
+   "change": "+0.1%",
+   "group": "crypto",
+   "name": "Bitcoin",
+   "period": "24h",
+   "source": "CoinGecko",
+   "status": "intraday snapshot",
+   "unit": "USD",
+   "url": "https://www.coingecko.com/en/coins/bitcoin",
+   "value": "83,923"
+  },
+  {
+   "asOf": "2026-10-01T14:50:00+02:00",
+   "change": "+0.4%",
+   "group": "crypto",
+   "name": "Ethereum",
+   "period": "24h",
+   "source": "CoinGecko",
+   "status": "intraday snapshot",
+   "unit": "USD",
+   "url": "https://www.coingecko.com/en/coins/ethereum",
+   "value": "2,697.44"
+  }
+ ],
+ "updatedBy": "morning brief",
+ "updates": []
+}

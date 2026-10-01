@@ -1,0 +1,485 @@
+{
+ "calendar": [
+  {
+   "date": "2026-10-01",
+   "event": "ISM Manufacturing PMI (September)",
+   "region": "US",
+   "time": "16:00",
+   "why": "Factory demand and price pressures"
+  },
+  {
+   "date": "2026-10-01",
+   "event": "Fed Governor Waller speaks (FRED Con, St. Louis)",
+   "region": "US",
+   "time": "16:00",
+   "why": "Read on the Fed's hike appetite"
+  },
+  {
+   "date": "2026-10-02",
+   "event": "Euro-area flash HICP inflation (September)",
+   "region": "EA",
+   "time": "11:00",
+   "why": "Forecast 3.6%; key for a December ECB hike"
+  },
+  {
+   "date": "2026-10-02",
+   "event": "Nonfarm payrolls (September)",
+   "region": "US",
+   "time": "14:30",
+   "why": "Main input for an October Fed hike"
+  },
+  {
+   "date": "2026-10-05",
+   "event": "ISM Services PMI (September)",
+   "region": "US",
+   "time": "16:00",
+   "why": "Services are most of US output"
+  },
+  {
+   "date": "2026-10-06",
+   "event": "Euro-area retail sales (August)",
+   "region": "EA",
+   "time": "11:00",
+   "why": "Consumer demand under higher rates"
+  },
+  {
+   "date": "2026-10-07",
+   "event": "FOMC minutes (Sept 15-16 meeting)",
+   "region": "US",
+   "time": "20:00",
+   "why": "How many more hikes are planned"
+  },
+  {
+   "date": "2026-10-08",
+   "event": "ECB monetary policy meeting accounts",
+   "region": "EA",
+   "time": "13:30",
+   "why": "Detail behind the September hike"
+  },
+  {
+   "date": "2026-10-09",
+   "event": "China CPI (September)",
+   "region": "CN",
+   "time": "03:30",
+   "why": "Global demand and price signal"
+  },
+  {
+   "date": "2026-10-09",
+   "event": "University of Michigan sentiment (prelim)",
+   "region": "US",
+   "time": "16:00",
+   "why": "Inflation expectations of US consumers"
+  }
+ ],
+ "date": "2026-10-01",
+ "generatedAt": "2026-10-01T14:56:09+02:00",
+ "markets": {
+  "asOf": "2026-10-01T14:50:00+02:00",
+  "note": "European markets open; US opens at 15:30 Madrid, so US indices are Wednesday's close. Rates, FX, European indices and crypto are Thursday snapshots.",
+  "rows": [
+   {
+    "asOf": "2026-09-30T22:00:00+02:00",
+    "change": "-0.3%",
+    "group": "stocks",
+    "name": "S&P 500",
+    "period": "vs previous close",
+    "source": "AP via ABC News",
+    "status": "previous close",
+    "unit": "pts",
+    "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-wednesday-9302026-136901112",
+    "value": "7,651.54"
+   },
+   {
+    "asOf": "2026-09-30T22:00:00+02:00",
+    "change": "+0.2%",
+    "group": "stocks",
+    "name": "Nasdaq Composite",
+    "period": "vs previous close",
+    "source": "AP via ABC News",
+    "status": "previous close",
+    "unit": "pts",
+    "url": "https://abcnews.com/Business/wireStory/major-us-stock-indexes-fared-wednesday-9302026-136901112",
+    "value": "26,861.06"
+   },
+   {
+    "asOf": "2026-10-01T12:48:00+02:00",
+    "change": "-0.33%",
+    "group": "stocks",
+    "name": "Euro Stoxx 50",
+    "period": "vs previous close",
+    "source": "MarketScreener",
+    "status": "intraday snapshot",
+    "unit": "pts",
+    "url": "https://www.marketscreener.com/quote/index/EURO-STOXX-50-7396/",
+    "value": "6,248.17"
+   },
+   {
+    "asOf": "2026-10-01T13:31:00+02:00",
+    "change": "-1.25%",
+    "group": "stocks",
+    "name": "IBEX 35",
+    "period": "vs previous close",
+    "source": "El Español (Invertia)",
+    "status": "intraday snapshot",
+    "unit": "pts",
+    "url": "https://www.elespanol.com/invertia/mercados/20261001/ibex-bolsa-directo-hoy-cotizaciones-noticias-tiempo-real/1003744404180_10.html",
+    "value": "19,183.35"
+   },
+   {
+    "asOf": "2026-10-01T14:50:00+02:00",
+    "change": "-0.01 pp",
+    "group": "rates",
+    "name": "US 10Y Treasury",
+    "period": "vs previous close",
+    "source": "Trading Economics",
+    "status": "intraday snapshot",
+    "unit": "%",
+    "url": "https://tradingeconomics.com/united-states/government-bond-yield",
+    "value": "5.28"
+   },
+   {
+    "asOf": "2026-10-01T14:50:00+02:00",
+    "change": "-0.045 pp",
+    "group": "rates",
+    "name": "German 10Y Bund",
+    "period": "vs previous close",
+    "source": "Trading Economics",
+    "status": "intraday snapshot",
+    "unit": "%",
+    "url": "https://tradingeconomics.com/germany/government-bond-yield",
+    "value": "3.53"
+   },
+   {
+    "asOf": "2026-10-01T14:50:00+02:00",
+    "change": "-0.31%",
+    "group": "fx",
+    "name": "EUR/USD",
+    "period": "vs previous close",
+    "source": "Trading Economics",
+    "status": "intraday snapshot",
+    "unit": "USD per EUR",
+    "url": "https://tradingeconomics.com/euro-area/currency",
+    "value": "1.1294"
+   },
+   {
+    "asOf": "2026-10-01T14:50:00+02:00",
+    "change": "+0.1%",
+    "group": "crypto",
+    "name": "Bitcoin",
+    "period": "24h",
+    "source": "CoinGecko",
+    "status": "intraday snapshot",
+    "unit": "USD",
+    "url": "https://www.coingecko.com/en/coins/bitcoin",
+    "value": "83,923"
+   },
+   {
+    "asOf": "2026-10-01T14:50:00+02:00",
+    "change": "+0.4%",
+    "group": "crypto",
+    "name": "Ethereum",
+    "period": "24h",
+    "source": "CoinGecko",
+    "status": "intraday snapshot",
+    "unit": "USD",
+    "url": "https://www.coingecko.com/en/coins/ethereum",
+    "value": "2,697.44"
+   }
+  ]
+ },
+ "opportunities": [
+  {
+   "deadline": "2026-10-16",
+   "details": "Runs in March to April 2027 with networking, skill-building and interactive sessions with Blackstone professionals. Applicants must be in their first or second year, graduating in 2028 or 2029, and studying in the UK or Europe. Apply through Blackstone's campus careers portal.",
+   "eligibility": "First- or second-year university students graduating 2028 or 2029, studying in the UK or Europe",
+   "location": "London, UK",
+   "source": "Blackstone Careers",
+   "speculative": false,
+   "summary": "A 4-day insight programme at Blackstone's London office for first- and second-year students.",
+   "title": "Blackstone 2027 EMEA Future Leaders Spring Insight Programme",
+   "type": "programme",
+   "url": "https://blackstone.wd1.myworkdayjobs.com/en-US/Blackstone_Campus_Careers/job/XMLNAME-2027-EMEA-Future-Leaders-Spring-Insight-Programme_45529"
+  },
+  {
+   "deadline": "rolling",
+   "details": "Off-cycle internships are offered in Frankfurt, Paris, Stockholm, Madrid, Milan and Dubai. Evercore says applicants must show genuine interest in investment banking, and internships may lead to graduate programme offers. The page lists the programme as open year-round.",
+   "eligibility": "University students with demonstrated interest in investment banking; no year of study stated on the page",
+   "location": "Madrid (also Frankfurt, Paris, Stockholm, Milan, Dubai)",
+   "source": "Evercore",
+   "speculative": false,
+   "summary": "Evercore accepts off-cycle investment banking intern applications year-round, including for Madrid.",
+   "title": "Evercore Off-Cycle Internships (Madrid and other EMEA offices)",
+   "type": "internship",
+   "url": "https://www.evercore.com/careers/students-graduates/students-graduates-europe-asia/"
+  },
+  {
+   "deadline": "2026-11-30",
+   "details": "Applicants submit a cover letter, CV and transcripts; the process is one test and two rounds of interviews (four interviews in total). The listing requires Spanish at C2 and English at C1-C2. It targets penultimate- or final-year bachelor's students, so check with Kearney whether a second-year student qualifies before applying.",
+   "eligibility": "Penultimate- or final-year bachelor's or non-MBA master's students in business, engineering, economics or finance; Spanish C2, English C1-C2",
+   "location": "Madrid, Spain",
+   "source": "Glassdoor (Kearney listing)",
+   "speculative": false,
+   "summary": "Kearney's Madrid office is hiring 2027 summer business analyst interns for 2 to 6 months.",
+   "title": "Kearney Summer Business Analyst Intern 2027 (Madrid)",
+   "type": "internship",
+   "url": "https://www.glassdoor.es/job-listing/kearney-summer-business-analyst-intern-2027-kearney-JV_IC2664239_KO0,43_KE44,51.htm?jl=1010240786315"
+  },
+  {
+   "deadline": "not stated",
+   "details": "Teams of 2 to 4 students build a startup that addresses one of the 17 UN Sustainable Development Goals. All team members must be enrolled in a degree programme and be at least 18 by February 28, 2027. The registration page does not state a deadline, so register early.",
+   "eligibility": "Students enrolled in a degree programme, teams of 2-4, aged 18+ by 2027-02-28",
+   "location": "Global (registration online)",
+   "source": "Hult Prize",
+   "speculative": false,
+   "summary": "Registration is open for the 2026-27 Hult Prize, a global student startup competition tied to the UN SDGs.",
+   "title": "Hult Prize 2026-27 startup competition",
+   "type": "competition",
+   "url": "https://www.hultprize.org/register"
+  },
+  {
+   "deadline": "n/a",
+   "details": "Euribor.com.es notes Spain has more than four million variable-rate mortgage holders, and 12-month Euribor is near two-year highs. A lightweight web tool could take a borrower's loan terms, estimate the next review and compare fixed-rate switch offers, earning referral fees from brokers. This is an untested idea, not a reported opportunity.",
+   "eligibility": "n/a",
+   "location": "Spain",
+   "source": "Euribor.com.es (context)",
+   "speculative": true,
+   "summary": "Speculative: a simple tool that tells variable-rate borrowers what their next Euribor review will cost and what options they have.",
+   "title": "Idea: plain-language mortgage review checker for Spanish variable-rate borrowers",
+   "type": "idea",
+   "url": "https://www.euribor.com.es/2026/10/01/analisis-de-mercados-1-de-octubre-de-2026-1-octubre-2026/"
+  }
+ ],
+ "schema": 3,
+ "sections": [
+  {
+   "items": [
+    {
+     "details": "Reuters reported the pan-European STOXX 600 fell 1.4% to 626.29 on Thursday morning, its lowest level in more than three months. Banks dropped 3.2%, their worst day since July 8, and miners lost 2%. Germany's 10-year yield had earlier hit 3.6526%, the highest since June 2009, and France's 10-year yield reached its highest since 2002. Investors sold government debt on inflation worries and expectations that rates stay higher for longer.",
+     "headline": "European stocks start Q4 lower as bond yields hit multi-year highs",
+     "published": "2026-10-01",
+     "source": "Reuters via Investing.com",
+     "summary": "The STOXX 600 fell 1.4% to 626.29, its lowest in over three months, with banks down 3.2%.",
+     "url": "https://www.investing.com/news/economy-news/european-stocks-start-quarter-lower-as-global-yields-hit-multiyear-highs-4926446",
+     "why": "When bond yields jump this fast, equity valuations and deal financing both get repriced, which is the backdrop for any finance or PE interview this autumn."
+    },
+    {
+     "details": "El Español's live market report put the IBEX 35 at 19,183.35 points at 13:31, down 1.25%. Spain's 10-year bond yield stood at 4.15%, its highest since 2013, and the paper said sovereign debt was weighing on equities. Other European indices were also lower: CAC 40 down 1.24%, FTSE 100 down 1.56% and DAX down 0.61%. The US 10-year yield was quoted at 5.32%.",
+     "headline": "IBEX 35 drops 1.25% as Spain's 10-year yield hits highest since 2013",
+     "published": "2026-10-01",
+     "source": "El Español (Invertia)",
+     "summary": "At 13:31 the IBEX 35 was down 1.25% at 19,183.35 points, with Spain's 10-year yield at 4.15%.",
+     "url": "https://www.elespanol.com/invertia/mercados/20261001/ibex-bolsa-directo-hoy-cotizaciones-noticias-tiempo-real/1003744404180_10.html",
+     "why": "A higher Spanish sovereign yield raises the floor for every corporate and mortgage rate in Spain, so it filters into Madrid deal activity and housing costs."
+    },
+    {
+     "details": "Yahoo Finance reported S&P 500 futures up 0.36% at 7,743.25 and Nasdaq futures up 0.77% on Thursday morning. Micron reported earnings per share of $33.42 against estimates of $31.83, and revenue of $54.23 billion against $51.49 billion expected. An analyst quoted said there is a lot of demand for memory and supply is not going up in the near term. Nike reports after the close, with its stock near 2014 lows.",
+     "headline": "US futures rise after Micron beats on AI memory demand",
+     "published": "2026-10-01",
+     "source": "Yahoo Finance",
+     "summary": "S&P 500 futures were up 0.36% and Nasdaq futures 0.77% before the open after Micron's results beat estimates.",
+     "url": "https://finance.yahoo.com/markets/live/stock-market-today-thursday-oct-1-dow-sp-500-nasdaq-080602402.html",
+     "why": "AI hardware earnings are holding US indices up even as yields rise, a split worth being able to explain in a markets interview."
+    }
+   ],
+   "key": "stocks",
+   "noUpdate": null,
+   "title": "Stocks & markets"
+  },
+  {
+   "items": [
+    {
+     "details": "CoinDesk reported bitcoin trading near $83,975 and ether around $2,706, both roughly flat on Thursday. Bitcoin rose 42.7% in the third quarter, its best quarter since Q1 2024, while ether's 70.8% gain was its best since Q1 2021. The US 10-year yield touched 5.362% overnight before easing to 5.282%. Citigroup raised its 12-month bitcoin price target to $113,000.",
+     "headline": "Bitcoin flat near $84,000 after its best quarter since early 2024",
+     "published": "2026-10-01",
+     "source": "CoinDesk",
+     "summary": "Bitcoin gained 42.7% in Q3 and ether 70.8%; both were flat on the first day of Q4.",
+     "url": "https://www.coindesk.com/tech/2026/10/01/live-updates-bitcoin-flat-near-usd84-000-after-best-quarter-since-2024",
+     "why": "Crypto rallied hard in a quarter when bond yields also rose, which makes it a useful case for how risk assets and rates do not always move together."
+    },
+    {
+     "details": "According to Farside Investors data reported by KuCoin News, US spot bitcoin ETFs recorded net outflows of $148.7 million on September 30. That ended nine consecutive days of net inflows. Ether ETFs saw net outflows of $59.6 million on the same day.",
+     "headline": "Bitcoin ETFs end nine-day inflow streak with $148.7M outflow",
+     "published": "2026-10-01",
+     "source": "KuCoin News (Farside data)",
+     "summary": "US spot bitcoin ETFs had net outflows of $148.7 million on September 30; ether ETFs lost $59.6 million.",
+     "url": "https://www.kucoin.com/news/flash/bitcoin-etf-ends-nine-day-inflow-streak-with-148-7m-outflow-on-sept-30",
+     "why": "ETF flows are the clearest read on institutional demand; one day is noise, but a run of outflows would signal the Q3 rally is losing support."
+    },
+    {
+     "details": "ESMA submitted recommendations on September 30 asking for expanded enforcement powers under the Markets in Crypto-Assets Regulation. It wants authority to order firms to freeze assets linked to crime, and for national regulators to remove scam or unauthorised websites. It also proposes banning misleading crypto marketing, setting rules for influencer promotions and requiring upfront cost disclosure. The proposals feed a MiCA review expected to conclude by mid-2027.",
+     "headline": "ESMA asks for stronger EU powers to police crypto under MiCA",
+     "published": "2026-09-30",
+     "source": "The Cryptonomist",
+     "summary": "The EU markets watchdog wants powers to freeze crypto assets, take down scam websites and curb misleading crypto marketing.",
+     "url": "https://en.cryptonomist.ch/2026/09/30/eu-crypto-regulation-esma",
+     "why": "Tighter enforcement raises compliance costs for exchanges and fintechs operating in Spain, and creates demand for regulatory and compliance talent."
+    }
+   ],
+   "key": "crypto",
+   "noUpdate": null,
+   "title": "Crypto"
+  },
+  {
+   "items": [
+    {
+     "details": "Expansión reported, via Investing.com, that CaixaBank has hired Morgan Stanley to advise on a potential bid for Cetelem's Spanish and Portuguese consumer lending operations. Market estimates value the business at €900 million to €1 billion. BNP Paribas started the sale as part of a strategic refocus and sought non-binding offers over the summer. Spanish consumer lending has recovered to pre-financial-crisis levels as lenders shift from mortgages to consumer credit.",
+     "headline": "CaixaBank hires Morgan Stanley for possible Cetelem Spain bid",
+     "published": "2026-10-01",
+     "source": "Investing.com (citing Expansión)",
+     "summary": "CaixaBank is preparing a bid for BNP Paribas's Cetelem consumer-lending business, valued at €900 million to €1 billion.",
+     "url": "https://www.investing.com/news/stock-market-news/caixabank-hires-morgan-stanley-for-potential-cetelem-bid--report-93CH-4926429",
+     "why": "This is a live Spanish bank carve-out with a bulge-bracket adviser, a good example to discuss in Madrid M&A or banking interviews."
+    },
+    {
+     "details": "Reuters reported on October 1 that Nuveen has completed its acquisition of British fund manager Schroders. The combined group manages more than $2.6 trillion across over 40 markets. Schroders will operate separately within Nuveen for 12 to 18 months. Schroders CEO Richard Oldfield will report to Nuveen CEO William Huffman during the transition.",
+     "headline": "Nuveen completes Schroders takeover, creating a $2.6 trillion manager",
+     "published": "2026-10-01",
+     "source": "Reuters via Investing.com",
+     "summary": "Nuveen closed its acquisition of Schroders, forming a group with over $2.6 trillion in assets across 40-plus markets.",
+     "url": "https://www.investing.com/news/stock-market-news/nuveen-completes-schroders-takeover-to-create-26-trillion-investment-group-4926630",
+     "why": "Consolidation in asset management changes where graduate hiring and integration consulting work will come from over the next two years."
+    },
+    {
+     "details": "Dutch private equity firm Waterland said it would not make a rival bid for UK telecoms provider Gamma Communications, and Gamma shares fell more than 2%. That leaves Epiris's agreed £1.02 billion takeover to go to a shareholder vote on October 20. Waterland had explored a counter-offer with Giacom Group before ending that partnership on September 11. The UK Takeover Panel had set an October 13 deadline for Waterland to bid or walk away.",
+     "headline": "Waterland drops rival bid for Gamma, clearing Epiris's £1.02bn buyout",
+     "published": "2026-10-01",
+     "source": "Investing.com",
+     "summary": "Gamma Communications shares fell over 2% after Waterland ruled out a rival offer to Epiris's agreed £1.02bn deal.",
+     "url": "https://www.investing.com/news/stock-market-news/gamma-shares-fall-as-waterland-rules-out-rival-bid-clearing-epiris-deal-path-93CH-4926449",
+     "why": "A textbook UK take-private with a would-be interloper, useful for understanding how PE bidding contests and Takeover Panel deadlines work."
+    }
+   ],
+   "key": "deals",
+   "noUpdate": null,
+   "title": "Deals, PE & consulting"
+  },
+  {
+   "items": [
+    {
+     "details": "Reuters reported Schnabel said that as long as price expectations stay anchored, policy can tolerate a more gradual return of inflation to target. She also pointed to whether demand is strong enough for firms to pass on higher costs. Rising US yields could weigh on growth more than projected and damp medium-term inflation. The ECB has raised rates twice in 2026 after energy prices pushed inflation above 2%, and markets anticipate up to four more moves within a year.",
+     "headline": "Schnabel: price expectations and demand will drive the ECB's next move",
+     "published": "2026-09-30",
+     "source": "Reuters via Investing.com",
+     "summary": "ECB board member Isabel Schnabel named expectations, demand strength and global borrowing costs as the keys to further hikes.",
+     "url": "https://www.investing.com/news/economy-news/price-expectations-and-demand-key-in-ecbs-next-move-schnabel-says-4925573",
+     "why": "Her framing suggests the ECB is not in a hurry, so tomorrow's euro-area inflation flash carries extra weight for rates and the euro."
+    },
+    {
+     "details": "Kashkari said inflation is still too high, at around 3%, and that he has pencilled in one more rate hike this year and another in 2027. He described the economy as resilient, with strong consumer spending and solid employment. He also suggested the neutral rate may be higher than previously estimated, which would mean current policy is less restrictive than assumed. These are his individual views, not a committee decision.",
+     "headline": "Fed's Kashkari pencils in one more hike this year and another in 2027",
+     "published": "2026-09-30",
+     "source": "investingLive",
+     "summary": "Minneapolis Fed President Neel Kashkari said inflation is still too high at around 3% and expects two more hikes.",
+     "url": "https://investinglive.com/central-banks/fed-s-kashkari-says-inflation-is-still-too-high-pencils-in-one-more-hike-this-year",
+     "why": "A hawkish Fed keeps US yields and the dollar high, which weighs on the euro and on leveraged deals that rely on cheap debt."
+    },
+    {
+     "details": "Trading Economics reported that money markets price the ECB deposit rate at about 2.8% by December. That implies one more 25-basis-point increase, with a 24% probability of a second move. Markets also see the policy rate around 3.4% by late 2027. It linked the pricing to a deepening energy shock and concerns about debt affordability in the bloc's most indebted economies.",
+     "headline": "Markets price one more ECB hike by December",
+     "published": "2026-10-01",
+     "source": "Trading Economics",
+     "summary": "Money markets price the ECB deposit rate near 2.8% by December, implying one more 25bp hike.",
+     "url": "https://tradingeconomics.com/germany/government-bond-yield",
+     "why": "The ECB path sets Euribor, which feeds directly into Spanish mortgages and the cost of financing deals in Madrid."
+    }
+   ],
+   "key": "central_banks",
+   "noUpdate": null,
+   "title": "Central banks"
+  },
+  {
+   "items": [
+    {
+     "details": "Finance Minister Roland Lescure presented the 2027 budget on Thursday, with €43 billion in new measures and €54 billion in total when combined with existing initiatives. France aims to bring its deficit from around 5% of GDP in 2026 to the EU's 3% limit by 2029. Lescure said France's signature is solid. Reuters noted most economists see the 2029 target as unrealistic.",
+     "headline": "France unveils 2027 budget with €43bn of new deficit measures",
+     "published": "2026-10-01",
+     "source": "Reuters via Investing.com",
+     "summary": "France presented €43 billion in new measures, €54 billion including existing ones, to cut a deficit of about 5% of GDP.",
+     "url": "https://www.investing.com/news/economy-news/france-unveils-2027-budget-with-plan-to-cut-deficit-93CH-4926886",
+     "why": "French fiscal risk is one reason euro-area yields are rising, and it spills over into Spanish borrowing costs and the euro."
+    },
+    {
+     "details": "Spain's government approved a third royal decree-law under its Middle East crisis response plan, bringing the combined budget effort above €12 billion. Fuel tax cuts are 20 cents per litre in October, 13 in November and 6 in December. Electricity VAT falls from 21% to 10% for contracts under 10kW if September electricity inflation exceeds 15% a year, and the regulated gas tariff rise is limited to about 15% instead of 45%. Butane cylinders are capped at €19.55 until June 30, 2027.",
+     "headline": "Spain extends energy-crisis package; total support tops €12 billion",
+     "published": "2026-09-29",
+     "source": "La Moncloa",
+     "summary": "A third decree cuts fuel tax by 20 cents a litre in October, tapering to 6 cents by December, and caps butane prices.",
+     "url": "https://www.lamoncloa.gob.es/serviciosdeprensa/notasprensa/presidencia/paginas/2026/290926-decreto-crisis-oriente-medio.aspx",
+     "why": "These measures lower measured inflation in the short run but add to the deficit, which matters for Spanish bond yields."
+    },
+    {
+     "details": "The FCA began accepting applications for its new crypto regime on September 30, with the window closing on February 28, 2027. The regime takes effect on October 25, 2027 and covers trading, staking, custody and crypto admissions and disclosures. Existing anti-money-laundering registrations will not convert automatically. Firms that apply in the window can keep operating while assessed if they meet transitional conditions.",
+     "headline": "UK FCA opens crypto authorisation window ahead of 2027 regime",
+     "published": "2026-09-30",
+     "source": "The Block",
+     "summary": "UK crypto firms can apply for FCA authorisation from September 30 to February 28, 2027; the regime starts October 25, 2027.",
+     "url": "https://www.theblock.co/news/regulation/2026-09-30-fca-starts-accepting-crypto-authorization-applications-ahead-of-2027-regime-417284",
+     "why": "With MiCA in the EU and this UK regime, crypto is moving into full financial regulation, a growth area for compliance and advisory work."
+    }
+   ],
+   "key": "policy",
+   "noUpdate": null,
+   "title": "Policy & regulation"
+  },
+  {
+   "items": [
+    {
+     "details": "The HCOB Spain manufacturing PMI climbed to 51.0 from 49.5 in August, crossing back above the 50 line that separates growth from contraction. Output rose after three monthly declines and new export orders grew for the first time since August 2025, though total new orders fell for a fifth month. Employment was unchanged, ending 12 months of job losses. Input cost inflation was the strongest in four months and business confidence the highest since February.",
+     "headline": "Spain's factories return to growth: September PMI 51.0",
+     "published": "2026-10-01",
+     "source": "Reuters via Investing.com",
+     "summary": "Spain's manufacturing PMI rose to 51.0 in September from 49.5, as input costs rose at the fastest pace in four months.",
+     "url": "https://www.investing.com/news/economic-indicators/spanish-manufacturing-returns-to-growth-in-september-pmi-shows-4926432",
+     "why": "Activity is holding up while costs climb, the mix that keeps the ECB leaning toward more hikes."
+    },
+    {
+     "details": "Eurostat said euro-area unemployment was 6.4% in August, unchanged from July and up from 6.3% a year earlier. The EU rate was 6.1%. Spain's unemployment rate was 10.0%, with 2.552 million people out of work, and its youth (under 25) rate was 22.7%, the second highest in the EU after Sweden. About 2.973 million young people were unemployed across the EU.",
+     "headline": "Euro-area unemployment steady at 6.4%; Spain youth rate 22.7%",
+     "published": "2026-10-01",
+     "source": "Eurostat",
+     "summary": "Euro-area unemployment held at 6.4% in August; Spain's rate was 10.0% and its youth rate 22.7%.",
+     "url": "https://ec.europa.eu/eurostat/web/products-euro-indicators/w/3-01102026-ap",
+     "why": "Spain's high youth unemployment means entry-level roles stay competitive, so early internships and networking matter more."
+    },
+    {
+     "details": "US initial jobless claims fell to 197,000 in the week ending September 26, from a revised 198,000 and below the 201,000 forecast. Continuing claims were 1.701 million and the four-week average fell 2,500 to 200,000. FXStreet said the data supported the dollar, with the dollar index near 102.",
+     "headline": "US jobless claims fall to 197,000 ahead of Friday's payrolls",
+     "published": "2026-10-01",
+     "source": "FXStreet",
+     "summary": "Initial US jobless claims were 197,000 last week, below the 201,000 expected, showing no sign of labour weakness.",
+     "url": "https://www.fxstreet.com/news/us-initial-jobless-claims-dropped-to-197k-last-week-202610011237",
+     "why": "A firm labour market strengthens the case for another Fed hike, which keeps global borrowing costs high."
+    }
+   ],
+   "key": "economy",
+   "noUpdate": null,
+   "title": "Economy"
+  },
+  {
+   "items": [
+    {
+     "details": "Tinsa's Q3 index showed Spanish home prices up 14.7% year on year and 2.8% on the quarter, with a median of €2,129 per square metre. Growth slowed from 15.5% the previous quarter. Madrid's annual rise eased to 13.1% from 16.7% and Barcelona's to 12.4%. The share of household income needed to buy rose to 36.9%, above the 35% threshold Tinsa considers reasonable.",
+     "headline": "Tinsa: Spanish house prices up 14.7% a year; Madrid slows to 13.1%",
+     "published": "2026-09-30",
+     "source": "Infobae (EFE)",
+     "summary": "Prices rose 14.7% year on year in Q3, down from 15.5%; Madrid's growth eased to 13.1% from 16.7%.",
+     "url": "https://www.infobae.com/espana/agencias/2026/09/30/la-vivienda-modera-su-subida-al-147-pero-el-esfuerzo-para-comprar-alcanza-el-369/",
+     "why": "Prices in Madrid are still rising fast but the pace is slowing as rates bite, a trend to watch if you plan to rent or buy in the city."
+    },
+    {
+     "details": "Rankia reported the 12-month Euribor at 3.329% on October 1, down 0.033 points from the previous session. September's average was 3.247%, the highest monthly average since July 2024. For a typical €167,000, 25-year mortgage at Euribor plus 0.75%, the monthly payment is about €96 higher than a year earlier, around €1,152 a year. The site linked the rise to ECB hikes and Spanish inflation near 5%.",
+     "headline": "12-month Euribor dips to 3.329% but mortgage reviews keep rising",
+     "published": "2026-10-01",
+     "source": "Rankia",
+     "summary": "Euribor fell 0.033 points to 3.329% on October 1; a typical €167,000 loan pays about €96 more a month than a year ago.",
+     "url": "https://www.rankia.com/blog/mejores-hipotecas/7491259-euribor-hoy-1-octubre-2026",
+     "why": "Higher mortgage payments cool housing demand and squeeze household budgets, which shows up in Spanish consumer and bank stocks."
+    }
+   ],
+   "key": "real_estate",
+   "noUpdate": null,
+   "title": "Madrid & Spain real estate"
+  }
+ ],
+ "take": "A global bond selloff is driving markets: the US 10-year touched 5.36% overnight and Spain's 10-year is at its highest since 2013, dragging European banks down 3%. Tomorrow's euro-area inflation flash and US payrolls will decide how far the ECB and Fed push rates, which sets the cost of every LBO and mortgage you will hear about this autumn."
+}
